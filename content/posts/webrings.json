@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "slug": "webrings",
+    "title": "Webrings – Das soziale Netz vor Social Media",
+    "date": "2025-01-10",
+    "author": "DerH0nd",
+    "tags": ["Internetkultur"],
+    "excerpt": "Wie eine einfache Verlinkungsidee das frühe Web zusammenhielt.",
+    "readingTime": "4 min"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Bevor es Follower gab, gab es Nachbarn. Webseiten, die sich gegenseitig verlinkten – nicht weil ein Algorithmus es vorschlug, sondern weil die Betreiber sich fanden und mochten."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Was ist ein Webring?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ein Webring war eine Kette von Websites zu einem gemeinsamen Thema. Auf jeder Seite gab es zwei Links: <em>Nächste Seite</em> und <em>Vorherige Seite</em>. So konnte man sich durch einen Ring von Seiten klicken – endlos, ohne Zentrale."
+    },
+    {
+      "type": "quote",
+      "text": "Ein Webring war das soziale Netzwerk der 90er. Dezentral, ohne Werbung, ohne Datenkrake.",
+      "source": null
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Warum sie verschwanden"
+    },
+    {
+      "type": "list",
+      "style": "ordered",
+      "items": [
+        "Google machte Entdecken per Suche einfacher",
+        "Social Media zentralisierte die Aufmerksamkeit",
+        "Yahoo kaufte WebRing.org und ließ es verrotten",
+        "Persönliche Websites wurden seltener"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Das Comeback"
+    },
+    {
+      "type": "paragraph",
+      "text": "Heute gibt es wieder Webrings. Auf Neocities, im IndieWeb, in kleinen Gemeinschaften. Sie sind ein leises Zeichen dafür, dass nicht jeder das Web den Konzernen überlassen will."
+    }
+  ]
+}

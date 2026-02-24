@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Themen – DerH0nd</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Lora:ital,wght@0,400;0,600;1,400&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+
+<body>
+
+  <div class="bg-texture" aria-hidden="true"></div>
+
+  <!-- HEADER -->
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="site-logo">
+        <span class="logo-bracket">[</span>
+        <span class="logo-text">DerH0nd</span>
+        <span class="logo-bracket">]</span>
+      </div>
+      <nav class="main-nav">
+        <a href="../index.html">Start</a>
+        <a href="about.html">Über</a>
+        <a href="topics.html" class="nav-active">Themen</a>
+        <a href="links.html">Links</a>
+        <a href="guestbook.html">Gästebuch</a>
+      </nav>
+      <button class="mobile-menu-toggle" aria-label="Menü öffnen">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- THEMEN-ÜBERSICHT -->
+  <main class="topics-page">
+
+    <section class="topics-header">
+      <h1>Themen</h1>
+      <p class="topics-subtitle">Gedanken zu Tech, Kultur und dem Web.</p>
+    </section>
+
+    <!-- Tag-Filter -->
+    <div id="topics-filters" class="topics-filters">
+      <!-- JS füllt: Filter-Buttons -->
+    </div>
+
+    <!-- Artikel-Liste -->
+    <div id="topics-list" class="topics-list">
+      <!-- JS füllt: Artikel-Karten -->
+      <div class="article-loading">
+        <span class="loading-dot">·</span>
+        <span class="loading-dot">·</span>
+        <span class="loading-dot">·</span>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p class="footer-copy">&copy; <span id="footer-year"></span> DerH0nd</p>
+    </div>
+  </footer>
+
+  <script src="../assets/js/main.js"></script>
+  <script src="../assets/js/topics-loader.js"></script>
+
+</body>
+</html>

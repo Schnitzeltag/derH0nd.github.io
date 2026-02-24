@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "slug": "das-stille-web",
+      "title": "Das stille Web",
+      "date": "2025-01-15",
+      "tags": ["Tech", "Internetkultur"],
+      "excerpt": "Ein Blick zurück auf das, was wir bei der Optimierungsjagd verloren haben.",
+      "readingTime": "5 min"
+    },
+    {
+      "slug": "webrings",
+      "title": "Webrings – Das soziale Netz vor Social Media",
+      "date": "2025-01-10",
+      "tags": ["Internetkultur"],
+      "excerpt": "Wie eine einfache Verlinkungsidee das frühe Web zusammenhielt.",
+      "readingTime": "4 min"
+    }
+  ]
+}

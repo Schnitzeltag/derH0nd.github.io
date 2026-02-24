@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "slug": "das-stille-web",
+    "title": "Das stille Web",
+    "date": "2025-01-15",
+    "author": "DerH0nd",
+    "tags": ["Tech", "Internetkultur"],
+    "excerpt": "Ein Blick zurück auf das, was wir bei der Optimierungsjagd verloren haben.",
+    "readingTime": "5 min"
+  },
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "Irgendwann entschied das Web, dass Geschwindigkeit alles ist. Dass jede Seite in unter zwei Sekunden laden muss, sonst springt der Nutzer ab. Dass Inhalte in mundgerechten Häppchen serviert werden müssen. Dass Algorithmen besser wissen, was du lesen willst."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Die Ära der Optimierung"
+    },
+    {
+      "type": "paragraph",
+      "text": "SEO wurde zur Religion. Jeder Satz ein Keyword, jeder Absatz ein Conversion-Funnel. Das Web wurde schneller, effizienter – und gleichzeitig <em>leerer</em>."
+    },
+    {
+      "type": "quote",
+      "text": "Das schnellste Web ist nicht das beste Web. Es ist nur das ungeduldigste.",
+      "source": "Unbekannt"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Was wir verloren haben"
+    },
+    {
+      "type": "list",
+      "style": "unordered",
+      "items": [
+        "Persönliche Homepages mit Charakter",
+        "Blogrolls und Webrings",
+        "Gästebücher mit echten Gesprächen",
+        "Das Gefühl, etwas zu entdecken"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Es gab eine Zeit, in der man im Web <em>stöbern</em> konnte. Kein Algorithmus hat dich geführt. Du hast geklickt, bist gelandet, hast gelesen. Manchmal Müll, manchmal Gold. Immer menschlich."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Das stille Web lebt"
+    },
+    {
+      "type": "paragraph",
+      "text": "Irgendwo zwischen den Content-Farmen und Social-Media-Feeds gibt es sie noch – die kleinen Seiten. Gebaut von Menschen, die etwas zu sagen haben. Ohne Analytics, ohne Cookies, ohne den Druck, viral zu gehen."
+    },
+    {
+      "type": "code",
+      "language": "html",
+      "text": "<a href=\"https://example.com\">Besuche meinen Freund</a>\n<!-- So einfach war das Internet einmal. -->"
+    },
+    {
+      "type": "divider"
+    },
+    {
+      "type": "paragraph",
+      "text": "Diese Seite ist ein Versuch, diesen Geist zurückzubringen. Nicht als Nostalgie-Trip, sondern als Gegenentwurf. Ein Arbeitszimmer im Netz. Still, aber da."
+    }
+  ]
+}
