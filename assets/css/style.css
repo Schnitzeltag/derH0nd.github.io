@@ -810,7 +810,7 @@ em {
 }
 
 .topics-header h1 {
-  font-family: var(--font-heading);
+  font-family: var(--font-display);
   font-size: 2rem;
   color: var(--text-primary);
   margin-bottom: 0.5rem;
@@ -829,7 +829,7 @@ em {
   flex-wrap: wrap;
   margin-bottom: 2.5rem;
   padding-bottom: 1.5rem;
-  border-bottom: 1px solid var(--border-subtle);
+  border-bottom: 1px solid var(--border);
 }
 
 .filter-btn {
@@ -837,18 +837,17 @@ em {
   font-size: 0.75rem;
   padding: 0.3rem 0.7rem;
   background: transparent;
-  border: 1px solid var(--border-subtle);
+  border: 1px solid var(--border);
   color: var(--text-muted);
   cursor: pointer;
-  border-radius: 2px;
   transition: all 0.2s ease;
 }
 
 .filter-btn:hover,
 .filter-btn.active {
-  border-color: var(--accent-gold);
-  color: var(--accent-gold);
-  background: rgba(212, 175, 55, 0.05);
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-faded);
 }
 
 /* Artikel-Karten */
@@ -860,31 +859,30 @@ em {
 
 .topic-card {
   padding: 1.5rem;
-  border: 1px solid var(--border-subtle);
-  border-radius: 4px;
-  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid var(--border);
+  background: var(--bg-card);
   transition: border-color 0.3s ease;
 }
 
 .topic-card:hover {
-  border-color: var(--accent-gold);
+  border-color: var(--accent);
 }
 
 .topic-card-meta {
   font-family: var(--font-mono);
   font-size: 0.75rem;
-  color: var(--text-faded);
+  color: var(--text-muted);
   margin-bottom: 0.5rem;
 }
 
 .topic-card-title {
-  font-family: var(--font-heading);
+  font-family: var(--font-display);
   font-size: 1.25rem;
   margin-bottom: 0.5rem;
 }
 
 .topic-card-title a {
-  color: var(--accent-gold);
+  color: var(--accent);
   text-decoration: none;
   transition: color 0.2s ease;
 }
@@ -907,21 +905,12 @@ em {
   flex-wrap: wrap;
 }
 
-.topic-tag {
-  font-family: var(--font-mono);
-  font-size: 0.7rem;
-  padding: 0.15rem 0.5rem;
-  border: 1px solid var(--accent-faded);
-  color: var(--text-muted);
-  border-radius: 2px;
-}
-
 /* Loading Animation */
 .article-loading {
   text-align: center;
   padding: 2rem;
   font-size: 1.5rem;
-  color: var(--text-faded);
+  color: var(--text-muted);
 }
 
 .loading-dot {
